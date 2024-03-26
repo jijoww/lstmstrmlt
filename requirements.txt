@@ -4,5 +4,4 @@ numpy
 torch
 scikit-learn
 plotly
-os
 joblib
